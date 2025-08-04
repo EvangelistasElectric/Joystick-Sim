@@ -26,6 +26,12 @@ Optional analog scaling supports HID-style output ranges, and serial debug tools
 
 ---
 
+## Video Links
+Testing inputs via serial monitor: https://youtube.com/shorts/exbrDBUEC40
+Uploading program to board via Arduino IDE: https://youtu.be/AAV_ODUoQBg
+
+---
+
 ## ✨ Features
 
 - Reads 2 dual-axis analog joysticks via A0–A3  
