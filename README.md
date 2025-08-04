@@ -9,7 +9,11 @@
 **Version:** 1.0.1  
 **Date Created:** July 20, 2025  
 **Platform:** Arduino Nano (ATmega328P)  
-**IDE:** Arduino IDE / PlatformIO  
+**IDE:** Arduino IDE / Arduino-CLI 
+
+## 🛡️ License
+This project is licensed under the Evangelista's Electric Non-Commercial Open Source License (EENOSL).
+Please see LICENSE.txt for full terms.
 
 ---
 
@@ -79,6 +83,4 @@ Toggle these flags in the source `.ino` file to enable/disable specific features
 #define ANALOG_OUTPUT_MIN -127   // Minimum scaled output
 #define ANALOG_OUTPUT_MAX 127    // Maximum scaled output
 
-## 🛡️ License
-This project is licensed under the Evangelista's Electric Non-Commercial Open Source License (EENOSL).
-Please see LICENSE.txt for full terms.
+
